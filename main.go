@@ -1,7 +1,7 @@
 package main
 
 import(
-  "github.com/home-control/core/plugin"
+  "github.com/kayatra/core/plugin"
 )
 
 func main() {

@@ -1,5 +1,5 @@
-package: github.com/home-control/hue
+package: github.com/kayatra/hue
 import:
-- package: github.com/home-control/core
+- package: github.com/kayatra/core
   subpackages:
   - plugin
