@@ -1,0 +1,5 @@
+package: github.com/home-control/hue
+import:
+- package: github.com/home-control/core
+  subpackages:
+  - plugin
